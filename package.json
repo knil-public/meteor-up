@@ -1,5 +1,5 @@
 {
-  "name": "mup",
+  "name": "kmup",
   "version": "1.0.4",
   "description": "Production Quality Meteor Deployments",
   "main": "lib/index.js",
@@ -13,17 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kadirahq/meteor-up.git"
+    "url": "git+https://github.com/knil-public/meteor-up.git"
   },
   "keywords": [
     "meteor"
   ],
-  "author": "Kadira Inc.",
+  "author": "Knil.co",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kadirahq/meteor-up/issues"
+    "url": "https://github.com/knil-public/meteor-up/issues"
   },
-  "homepage": "https://github.com/kadirahq/meteor-up#readme",
+  "homepage": "https://github.com/knil-public/meteor-up#readme",
   "devDependencies": {
     "nofat": "1.0.x",
     "ssh2": "0.4.x"
