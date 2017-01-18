@@ -1,3 +1,7 @@
+#kmup
+* merged pull request 317 (better support for mobile builds) - modified that mobileSettings is a file path.
+* merged pull request 418 (default image for meteor 1.4)
+
 # meteor-up [![Stories in Ready](https://badge.waffle.io/kadirahq/meteor-up.svg?label=ready&title=Ready)](http://waffle.io/kadirahq/meteor-up)
 
 #### Production Quality Meteor Deployments
